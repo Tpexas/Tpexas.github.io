@@ -1,0 +1,443 @@
+header {
+  max-width: 1020px;
+  margin: auto;
+  background: #E8EAE3;
+  text-align: center;
+}
+
+.page {
+  max-width: 1020px;
+  margin: auto;
+  background: #E8EAE3;
+}
+
+table > .turnyro {
+  max-width: 25%;
+}
+
+h5 {
+  text-align: left;
+  margin-left: 1px;
+}
+
+.mlogo {
+  width: 25px;
+}
+
+.linija {
+  height: 2px;
+  color: black;
+  margin-top: -4px;
+}
+
+h4 {
+  text-align: left;
+}
+
+div > .container {
+  margin: 0px;
+  padding: 0px;
+}
+
+.match {
+  width: -webkit-fill-available;
+  width: -moz-available;
+  width: fill;
+  height: 320px;
+}
+
+.naujienos .col-md {
+  margin: 0px;
+  padding: 0px;
+}
+
+div .col {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col-sm {
+  padding: 0px;
+}
+
+header > .container {
+  padding: 0px;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.plac {
+  text-align: left;
+  text-decoration: underline;
+}
+
+.whpage {
+  background-color: #1D1D2C;
+}
+
+.mainlogo {
+  width: 200px;
+}
+
+.mac table {
+  max-width: 100%;
+  font-size: 14px;
+  line-height: 50%;
+  height: 130px;
+  font-weight: bold;
+}
+
+.scroll > .carousel {
+  padding-top: 30px;
+}
+
+.scrlogo {
+  float: left;
+  width: 19px;
+  margin: 1px;
+  margin-top: -3px;
+}
+
+div > .card {
+  margin-top: 3px;
+}
+
+div.col-4 {
+  padding: 0px;
+}
+
+div > .col-lg-8 {
+  padding: 0px;
+}
+
+.col-lg-2 > p {
+  text-align: center;
+}
+
+div > .col-sm-12 {
+  padding: 0px;
+}
+
+div > .col-6 {
+  padding: 0px;
+}
+
+div > .row {
+  margin: auto;
+}
+
+h4 {
+  margin-left: 1px;
+}
+
+div > .mainc {
+  padding: 10px;
+}
+
+.szaid {
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.zaidlogo {
+  position: absolute;
+  top: 120px;
+  right: 10px;
+  max-width: 35%;
+}
+
+footer {
+  background-color: rgba(23, 23, 39, 0.514);
+  max-width: 1020px;
+  margin: auto;
+  text-align: center;
+  color: #837e7e;
+}
+
+figcaption {
+  text-align: right;
+  font-size: 10pt;
+}
+
+.strfoto {
+  max-width: 100%;
+}
+
+h3 {
+  text-align: left;
+}
+
+.desc {
+  font-size: 10pt;
+  text-align: right;
+}
+
+p {
+  text-align: left;
+}
+
+textarea {
+  width: 500px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+div > .col-8 {
+  padding: 0px;
+}
+
+.tvarkarastis {
+  font-size: 13pt;
+}
+
+.tvarklogo {
+  max-width: 50px;
+  margin: 0px 20px 0px 20px;
+}
+
+.arena {
+  max-width: 200px;
+}
+
+.list-group {
+  margin-left: 10px;
+}
+
+div > .list-group-item-action {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+div > .list-group-item-action:hover, div > .list-group-item-action:focus, div > .list-group-item-action:active {
+  z-index: 1;
+  color: #495057;
+  text-decoration: none;
+  background-color: #cccccc;
+  outline: none;
+}
+
+div > .list-group-item-action:focus {
+  border-color: #919191;
+}
+
+.balsav {
+  margin-top: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:hover, a:focus, a:active {
+  color: black;
+}
+
+.gallery {
+  max-width: 100%;
+}
+
+.strtable {
+  table-layout: fixed;
+  max-width: 95%;
+  font-size: 11pt;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.strtable tr:first-child {
+  white-space: nowrap !important;
+}
+
+abbr {
+  text-decoration: none !important;
+  cursor: inherit !important;
+}
+
+div > .news {
+  margin-top: 15px;
+}
+
+div .col-lg-3 {
+  padding: 5px;
+}
+
+.form-group {
+  max-width: 100%;
+}
+
+.home {
+  text-align: right;
+}
+
+.away {
+  text-align: left;
+}
+
+.turnyro > tbody > tr > td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.turnyro > tbody > tr > th {
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+
+footer {
+  font-size: 11pt;
+}
+
+footer .align-self-end > p {
+  text-align: right;
+}
+
+.carousel-control-prev, .carousel-control-next {
+  width: 5%;
+}
+
+.arenaticket {
+  overflow-x: auto;
+  position: relative;
+}
+
+.arenaticket .kede {
+  font-size: 6pt;
+  font-weight: bold;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  background-image: url("img/kede.png");
+  background-size: contain;
+  position: absolute;
+  text-align: center;
+}
+
+.arenaticket .kede div {
+  line-height: 25px;
+}
+
+.arenaticket .kede.pasirinkta div {
+  color: green;
+}
+
+.arenaticket .kede.rezervuota {
+  background-image: url("img/kedered.png");
+  cursor: default;
+}
+
+.arenaticket .kede.rezervuota div {
+  color: #f73535;
+}
+
+.arenaticket .arimg {
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+}
+
+.arenaticket .sarasas {
+  max-height: 400px;
+  font-size: 13pt;
+}
+
+.arenaticket .sarasas ul {
+  padding: 0;
+}
+
+.arenaticket .sarasas li {
+  list-style: none;
+}
+
+.hoverh {
+  position: relative;
+}
+
+.hoverh .showthis {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: rgba(232, 234, 227, 0.815);
+  z-index: 1;
+  line-height: 130px;
+  font-size: 14pt;
+}
+
+.hoverh .showthis a {
+  cursor: pointer;
+}
+
+.hoverh:hover .showthis {
+  display: block;
+}
+
+#duomenys {
+  display: none;
+  max-width: 100%;
+}
+
+.totsum {
+  font-weight: bold;
+  font-size: 13pt;
+}
+
+#pirkimas, #naikinimas {
+  margin: 2px;
+}
+
+#message {
+  position: fixed;
+  bottom: 0;
+  right: 50px;
+  display: none;
+}
+
+div > .html5gallery-tn-title-0, #html5gallery-tn-0-0 {
+  display: none;
+}
+
+div > .html5gallery-tn-title-0:active, #html5gallery-tn-0-0:active {
+  display: none;
+}
+
+div > .html5gallery-tn-title-0:focus, #html5gallery-tn-0-0:focus {
+  display: none;
+}
+
+div > .html5gallery-tn-0, .html5gallery-tn-selected-0 {
+  height: 60px !important;
+}
+
+div > .html5gallery-tn-0:focus, .html5gallery-tn-selected-0:focus {
+  height: 60px !important;
+}
+
+div > .html5gallery-tn-0:active, .html5gallery-tn-selected-0:active {
+  height: 60px !important;
+}
+
+div > .html5gallery-container-0 .html5gallery-activeslide-0-0 {
+  height: 600px !important;
+}
+
+div > .html5gallery {
+  height: 800px !important;
+}
+
+.tvark {
+  margin-top: 10px;
+}
+
+.row > .col-12-lg > div > .html5gallery-container-0 {
+  width: 1000px !important;
+  height: 600px !important;
+}
+/*# sourceMappingURL=stiliai.css.map */
