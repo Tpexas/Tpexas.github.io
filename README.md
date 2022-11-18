@@ -1,0 +1,2 @@
+# Tpexas.github.io
+This is a simple website based on Lithuanian basketball league made with html, scss, javascript. Website shows main page, rankings, news, results and schedules which are made with bootstrap grid system. Also there is ticketing system prototype made with javascript. Javascript generates all seats and lets customer pick avalaible ones, then it calculates total price based on seat locations.
