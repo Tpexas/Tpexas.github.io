@@ -6,13 +6,13 @@ The LKL website offers the following features:
 
 Team Tables: The website displays tables showcasing the current standings of the teams participating in the Lithuanian Basketball League.
 
-News: Users can access the latest news and updates related to the LKL, providing them with information on team transfers, game highlights, and other relevant updates.
+News: Users can access the latest news and updates related to the LKL.
 
-Match History Carousel: The website showcases a carousel that displays the historical data of past matches, including details such as teams, scores, and dates. Users can navigate through the carousel to explore various match results.
+Match History Carousel: The website showcases a carousel that displays the historical data of past matches, including details such as teams, scores, and dates.
 
-Match Schedule: The website presents an updated schedule of upcoming LKL matches, enabling users to stay informed about the dates, times, and locations of future games.
+Match Schedule: The website presents schedule of upcoming LKL matches.
 
-Gallery: Users can browse through a gallery that includes images related to the LKL, including pictures of teams, players, memorable moments, and the overall excitement of the league.
+Gallery: Users can browse through a gallery that includes images related to the LKL.
 
 Ticketing System Prototype: The project includes a prototype of a ticketing system. Users can select seats by clicking on them, and the selected seats will be highlighted in green. Each seat is assigned a price, and the total price is calculated and displayed dynamically as users make their selections.
 
