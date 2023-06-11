@@ -16,8 +16,7 @@ Gallery: Users can browse through a gallery that includes images related to the 
 
 Ticketing System Prototype: The project includes a prototype of a ticketing system. Users can select seats by clicking on them, and the selected seats will be highlighted in green. Each seat is assigned a price, and the total price is calculated and displayed dynamically as users make their selections.
 
-Technologies Used
-The LKL website is built using the following technologies:
+Technologies Used:
 
 HTML, CSS, JavaScript.
 
